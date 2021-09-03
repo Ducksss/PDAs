@@ -15,8 +15,8 @@ Programming for Data Science is a poly-wide elective module. This module provide
 **Assessment**
 
 The assessment consists of three components:
-|Topic|Title|Hours|
-|:---|:---|:---|
+|#|Assessment|Component|Percentage|
+|:---|:---|:---|:---|
 |1.|CA1|Individual Assignment 1|40%|
 |2.|CA2|Individual Assignment 2|40%|
 |3.|CA3|Component 3 (Practicals, Quizzes, General Performance)|20%|
