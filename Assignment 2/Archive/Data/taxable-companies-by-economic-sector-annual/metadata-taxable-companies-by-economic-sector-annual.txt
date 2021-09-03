@@ -1,0 +1,107 @@
+# Metadata for Taxable Companies by Economic Sector, Annual
+---
+Identifier: '5519634b-c5d7-409a-ba48-16bcd63afe0a'
+Name: 'taxable-companies-by-economic-sector-annual'
+Title: 'Taxable Companies by Economic Sector, Annual'
+Description:
+  - 'Number of companies, amount of chargeable income and net tax assessed of taxable
+    companies by economic sectors for Year of Assessment (YA)2004 to YA2019. Income
+    is assessed on a preceding year basis. The basis period for any YA is the financial
+    year ending in the year preceding the YA.'
+  - ''
+  - '* All figures are as at 31 March of the following year for each Year of Assessment
+    (i.e. the YA2017 figures are as at 31 March 2018).'
+Topics:
+  - 'Finance'
+Keywords:
+  - 'Businesses'
+  - 'Companies'
+  - 'Corporate Tax'
+  - 'Industrial Sector'
+  - 'Taxes'
+Publisher:
+  Name: 'Inland Revenue Authority of Singapore'
+  Admin 1:
+    Name: 'Chua Chanyi'
+    Department: 'Compliance Strategy and Insights Division \ Strategy & Data Management
+      Branch'
+    Email: 'CHUA_Chanyi@iras.gov.sg'
+  Admin 2:
+    Name: 'Chua Sin Chet'
+    Department: 'Compliance Strategy and Insights Division \ Strategy & Data Management
+      Branch'
+    Email: 'CHUA_Sin_Chet@iras.gov.sg'
+Sources:
+  - 'Inland Revenue Authority of Singapore'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2004-01-01 to 2019-12-31'
+Last Updated: '2020-09-23T08:47:20.056576'
+Resources:
+  -
+    Identifier: 'c6c08a39-e9de-4e07-b6f9-18a2d303a796'
+    Title: 'Taxable Companies By Economic Sector'
+    Url: 'https://storage.data.gov.sg/taxable-companies-by-economic-sector-annual/resources/taxable-companies-by-economic-sector-2020-09-23T08-44-38Z.csv'
+    Format: 'CSV'
+    Coverage: '2004-01-01 to 2019-12-31'
+    Description:
+      - '* For YA2009-YA2015, the industries are classified according to Singapore
+        Standard Industrial Classification (SSIC) 2010.'
+      - '(a) Other Goods Industries includes Agriculture & Fishing and Mining & Quarrying.'
+      - '(b) Utilities includes Electricity, Gas & Air-Conditioning Supply, Water
+        Supply, Sewerage, Waste Management & Remediation Activities.'
+      - '(c) Real Estate & Business Activities includes Real Estate Activities, Professional,
+        Scientific & Technical Activities, Administrative & Support Service Activities.'
+      - '(d) Others includes all other industries such as Education, Health & Social
+        Services, Arts, Entertainment & Recreation, Other Service Activities.'
+      - ''
+      - '* The industries are classified according to Singapore Standard Industrial
+        Classification (SSIC) 2015 for YA2016-YA2017; SSIC 2015 (Version 2018) from
+        YA2018.'
+      - '(a) Utilities includes Electricity, Gas, Steam & Air-Conditioning Supply,
+        Water Supply, Sewerage, Waste Management & Remediation Activities.'
+      - '(b) Other Goods Industries includes Agriculture & Fishing and Mining & Quarrying.'
+      - '(c) Real Estate & Business Activities includes Real Estate Activities, Professional,
+        Scientific & Technical Activities, Administrative & Support Service Activities.'
+      - '(d) Others includes all other industries such as Education, Health & Social
+        Services, Arts, Entertainment & Recreation, Other Service Activities.'
+    Last Updated: '2020-09-23T08:44:38.366409'
+    Schema:
+      -
+        Name: 'year_of_assessment'
+        Title: 'Year of Assessment'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'economic_sector'
+        Title: 'Economic Sector'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'no_of_companies'
+        Title: 'No. of Companies'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Count'
+      -
+        Name: 'assessable_income'
+        Title: 'Assessable Income'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Thousand'
+        Description: '"na" : Data not available or not applicable'
+      -
+        Name: 'chargeable_income'
+        Title: 'Chargeable Income'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Thousand'
+        Description: '"na" : Data not available or not applicable'
+      -
+        Name: 'net_tax_assessed'
+        Title: 'Net Tax Assessed'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Thousand'
+        Description: '"na" : Data not available or not applicable'

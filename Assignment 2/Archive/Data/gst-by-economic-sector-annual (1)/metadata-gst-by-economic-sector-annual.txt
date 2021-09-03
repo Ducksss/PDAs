@@ -1,0 +1,105 @@
+# Metadata for GST by Economic Sector, Annual
+---
+Identifier: 'e1163a18-879c-49b6-95dc-2f1db15e2d01'
+Name: 'gst-by-economic-sector-annual'
+Title: 'GST by Economic Sector, Annual'
+Description: 'Number of GST-registered businesses, percentage of businesses in net
+  GST refund position, amount and percentage of net GST contribution with breakdown
+  by economic sectors for Financial Year (FY)2004 to FY2019.'
+Topics:
+  - 'Finance'
+Keywords:
+  - 'GST'
+  - 'Industrial Sector'
+  - 'Taxes'
+Publisher:
+  Name: 'Inland Revenue Authority of Singapore'
+  Admin 1:
+    Name: 'Chua Chanyi'
+    Department: 'Compliance Strategy and Insights Division \ Strategy & Data Management
+      Branch'
+    Email: 'CHUA_Chanyi@iras.gov.sg'
+  Admin 2:
+    Name: 'Chua Sin Chet'
+    Department: 'Compliance Strategy and Insights Division \ Strategy & Data Management
+      Branch'
+    Email: 'CHUA_Sin_Chet@iras.gov.sg'
+Sources:
+  - 'Inland Revenue Authority of Singapore'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2004-04-01 to 2020-03-31'
+Last Updated: '2020-09-23T07:00:08.402320'
+Resources:
+  -
+    Identifier: '7e9e07d5-1aa2-4c5d-8981-23cae27dc674'
+    Title: 'GST By Economic Sector'
+    Url: 'https://storage.data.gov.sg/gst-by-economic-sector-annual/resources/gst-by-economic-sector-2020-09-23T07-00-07Z.csv'
+    Format: 'CSV'
+    Coverage: '2004-04-01 to 2020-03-31'
+    Description:
+      - '* For FY2009-FY2015, the industries are classified according to Singapore
+        Standard Industrial Classification (SSIC) 2010.'
+      - '(a) Utilities includes Electricity, Gas & Air-Conditioning Supply, Water
+        Supply, Sewerage, Waste Management & Remediation Activities.'
+      - '(b) Other Goods Industries includes Agriculture & Fishing and Mining & Quarrying.'
+      - '(c) Real Estate & Business Activities includes Real Estate Activities, Professional,
+        Scientific & Technical Activities, Administrative & Support Service Activities.'
+      - '(d) Others includes all other industries such as Education, Health & Social
+        Services, Arts, Entertainment & Recreation, Other Service Activities.'
+      - ''
+      - '* The industries are classified according to Singapore Standard Industrial
+        Classification (SSIC) 2015 for FY2016-FY2017; SSIC 2015 (Version 2018) from
+        FY2018.'
+      - '(a) Utilities includes Electricity, Gas, Steam & Air-Conditioning Supply,
+        Water Supply, Sewerage, Waste Management & Remediation Activities.'
+      - '(b) Other Goods Industries includes Agriculture & Fishing and Mining & Quarrying.'
+      - '(c) Real Estate & Business Activities includes Real Estate Activities, Professional,
+        Scientific & Technical Activities, Administrative & Support Service Activities.'
+      - '(d) Others includes all other industries such as Education, Health & Social
+        Services, Arts, Entertainment & Recreation, Other Service Activities.'
+    Last Updated: '2020-09-23T07:00:07.896156'
+    Schema:
+      -
+        Name: 'financial_year'
+        Title: 'Financial Year'
+        Type: 'datetime'
+        Sub Type: 'financial_year'
+        Format: 'YYYY'
+        Description: 'Financial year starts on 1 April and ends on 31 March'
+      -
+        Name: 'economic_sector'
+        Title: 'Economic Sector'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'no_of_businesses'
+        Title: 'No. of Businesses'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Count'
+      -
+        Name: 'percentage_of_businesses_in_net_gst_refund_position'
+        Title: 'Percentage of Businesses in Net GST Refund Position'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+          - '"na" : Data not available or not applicable'
+      -
+        Name: 'net_gst_contribution'
+        Title: 'Net GST Contribution'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Thousand'
+        Description:
+          - 'Included amount of net GST contribution from FY2011/2012.'
+          - '"na" : Data not available or not applicable'
+      -
+        Name: 'percentage_of_net_gst_contribution'
+        Title: 'Percentage of Net GST Contribution'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description: 'Percentages are expressed as a value over 100, i.e. "100" represents
+          100%'

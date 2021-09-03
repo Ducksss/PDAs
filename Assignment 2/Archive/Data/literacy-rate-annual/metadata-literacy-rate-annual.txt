@@ -1,0 +1,50 @@
+# Metadata for Literacy Rate, Annual
+---
+Identifier: '418950c8-6f01-47da-8e0b-84cfb6f7e2b2'
+Name: 'literacy-rate-annual'
+Title: 'Literacy Rate, Annual'
+Description: 'Data pertain to resident population aged 15 years and over. Prior to
+  1980, the data pertain to total population aged 15 years and over.'
+Topics:
+  - 'Society'
+Keywords:
+  - 'literacy rate'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'SingStat Info'
+    Department: 'Statistics Information Services'
+    Email: 'info@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+Source Url: 'http://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=967&exportType=csv'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '1960-01-01 to 2019-12-31'
+Last Updated: '2020-06-10T00:00:29.806930'
+Resources:
+  -
+    Identifier: '331c12b3-309c-4623-b53f-487885239f33'
+    Title: 'Literacy Rate, Annual'
+    Url: 'https://storage.data.gov.sg/literacy-rate-annual/resources/literacy-rate-annual-2020-06-10T00-00-29Z.csv'
+    Format: 'CSV'
+    Coverage: '1960-01-01 to 2019-12-31'
+    Last Updated: '2020-06-10T00:00:29.297540'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Literacy Rate'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: '%'

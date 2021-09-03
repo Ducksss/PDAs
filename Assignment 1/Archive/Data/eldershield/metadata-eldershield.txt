@@ -1,0 +1,63 @@
+# Metadata for Number of Policyholders for ElderShield, Annual
+---
+Identifier: 'e8dd4341-21f1-413f-b393-c370b32bdaac'
+Name: 'eldershield'
+Title: 'Number of Policyholders for ElderShield, Annual'
+Description: 'Number of ElderShield Policyholders, Number of ElderShield Policyholders
+  with Supplements'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Eldershield'
+  - 'Healthcare Financing'
+Publisher:
+  Name: 'Ministry of Health'
+  Admin 1:
+    Name: 'Shanice Teo'
+    Department: 'Research and Statistics Division'
+    Email: 'shanice_teo@moh.gov.sg'
+  Admin 2:
+    Name: 'Koh Poh Yoke'
+    Department: 'Research and Statistics Division'
+    Email: 'koh_poh_yoke@moh.gov.sg'
+Sources:
+  - 'Ministry of Health'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2006-01-01 to 2020-12-31'
+Last Updated: '2021-05-25T01:21:55.223966'
+Resources:
+  -
+    Identifier: 'a55f6baa-f17e-4795-87b9-eb59f00336b2'
+    Title: 'Number of Policyholders for ElderShield, Annual'
+    Url: 'https://storage.data.gov.sg/eldershield/resources/number-of-policyholders-for-eldershield-annual-2021-05-25T01-21-54Z.csv'
+    Format: 'CSV'
+    Coverage: '2006-01-01 to 2020-12-31'
+    Description: 'Number of ElderShield Policyholders, Number of ElderShield Policyholders
+      with Supplements'
+    Last Updated: '2021-05-25T01:21:54.652534'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'policyholders'
+        Title: 'Policyholders'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Policyholders'
+        Description: 'Number of ElderShield Policyholders, rounded off to the nearest
+          thousand'
+      -
+        Name: 'policyholders_with_supplements'
+        Title: 'Policyholders with Supplements'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Policyholders'
+        Description:
+          - 'Number of ElderShield Policyholders with Supplements, rounded off to
+            the nearest thousand'
+          - '"na" : Data not available or not applicable'

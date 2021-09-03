@@ -1,0 +1,65 @@
+# Metadata for Graduates From University First Degree Courses By Type Of Course
+---
+Identifier: 'edcc4d35-08e0-4ebd-b3bb-ac3a6a10c103'
+Name: 'graduates-from-university-first-degree-courses-by-type-of-course'
+Title: 'Graduates From University First Degree Courses By Type Of Course'
+Description:
+  - 'Prior to 2010, data are classified according to the Singapore Standard Educational
+    Classification (SSEC) 2000.  With effect from 2010, data are classified according
+    to SSEC 2010.  Covers full-time and part-time first degree courses.  Data refer
+    to academic year.  From 2012, data includes students graduated from Singapore
+    Institute of Technology.'
+  - ''
+  - '* APPLIED ARTS - Includes Industrial Design.'
+  - '* ARCHITECTURE & BUILDING - Includes Real Estate.'
+  - '* SERVICES - Includes Maritime Studies.'
+Topics:
+  - 'Education'
+Keywords:
+  - 'Graduate'
+  - 'University First Degree Course'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'Chng Lung Huang'
+    Department: 'PLMI'
+    Email: 'chng_lung_huang@moe.gov.sg'
+Sources:
+  - 'Ministry of Education'
+Source Url: 'http://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=6570&exportType=csv'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '1993-01-01 to 2014-12-31'
+Last Updated: '2017-02-06T06:58:52.694579'
+Resources:
+  -
+    Identifier: 'eb8b932c-503c-41e7-b513-114cffbe2338'
+    Title: 'Graduates From University First Degree Courses By Type Of Course'
+    Url: 'https://storage.data.gov.sg/graduates-from-university-first-degree-courses-by-type-of-course/resources/graduates-from-university-first-degree-courses-by-type-of-course-2016-02-15T07-23-55Z.csv'
+    Format: 'CSV'
+    Coverage: '1993-01-01 to 2014-12-31'
+    Last Updated: '2016-02-15T07:23:55.000714'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'sex'
+        Title: 'Sex'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'type_of_course'
+        Title: 'Type Of Course'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'no_of_graduates'
+        Title: 'No. Of Graduates'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. Of Graduates'
+        Description: '"na" : Data not available or not applicable'

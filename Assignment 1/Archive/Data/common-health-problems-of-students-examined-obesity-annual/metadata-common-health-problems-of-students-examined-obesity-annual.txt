@@ -1,0 +1,58 @@
+# Metadata for Common health problems of students examined - Overweight, Annual
+---
+Identifier: 'c961dd47-f57e-4a37-8be8-a015381a613e'
+Name: 'common-health-problems-of-students-examined-obesity-annual'
+Title: 'Common health problems of students examined - Overweight, Annual'
+Description: 'Number of students who are overweight, BMI-for-age ≥ 90th percentile
+  (for males and females who are in Primary 1 and Primary 5)'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Age Group'
+  - 'Gender'
+  - 'Healthcare'
+  - 'Primary Education'
+  - 'Students'
+Publisher:
+  Name: 'Health Promotion Board'
+  Admin 1:
+    Name: 'Jeannie Chow'
+    Department: 'SHS'
+    Email: 'jeannie_chow@hpb.gov.sg'
+Sources:
+  - 'Health Promotion Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2009-01-01 to 2020-12-31'
+Last Updated: '2021-03-24T09:43:46.206124'
+Resources:
+  -
+    Identifier: '7f8abd13-5662-46ac-9c9b-12718ce973ea'
+    Title: 'Common health problems of students examined - Overweight, Annual'
+    Url: 'https://storage.data.gov.sg/common-health-problems-of-students-examined-obesity-annual/resources/common-health-problems-of-students-examined-overweight-annual-2021-03-24T09-30-06Z.csv'
+    Format: 'CSV'
+    Coverage: '2009-01-01 to 2020-12-31'
+    Last Updated: '2021-03-24T09:30:06.799292'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'age_group'
+        Title: 'Age Group'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'gender'
+        Title: 'Gender'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'per_10000_examined'
+        Title: 'Prevalence of overweight'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Per 10000 Examined'

@@ -1,0 +1,56 @@
+# Metadata for Dental Index: Dental Health Status of the School Children at 12 and 15 Years Old
+---
+Identifier: '9d0097dc-9c85-41ce-b95d-c7d0c161f1dc'
+Name: 'dental-index-dental-health-status-of-the-school-children-at-12-and-15-years-old'
+Title: 'Dental Index: Dental Health Status of the School Children at 12 and 15 Years
+  Old'
+Description: 'The yearly aggregated data is a dental index which presents the dental
+  health status of the school children'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Age Group'
+  - 'Dental Health'
+  - 'Healthcare'
+  - 'Schools'
+  - 'Secondary Education'
+  - 'Students'
+Publisher:
+  Name: 'Health Promotion Board'
+  Admin 1:
+    Name: 'Wong Yim Heng'
+    Department: 'School Dental Service'
+    Email: 'WONG_Yim_Heng@hpb.gov.sg'
+Sources:
+  - 'Health Promotion Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2003-01-01 to 2020-12-31'
+Last Updated: '2021-01-07T00:58:07.698944'
+Resources:
+  -
+    Identifier: 'a87b9e32-adc9-4500-9519-507187f8fa15'
+    Title: 'Dental Index: Dental Health Status of the School Children at 12 and 15
+      Years Old'
+    Url: 'https://storage.data.gov.sg/dental-index-dental-health-status-of-the-school-children-at-12-and-15-years-old/resources/dental-index-dental-health-status-of-the-school-children-at-12-and-15-years-old-2021-01-07T00-58-07Z.csv'
+    Format: 'CSV'
+    Coverage: '2003-01-01 to 2020-12-31'
+    Last Updated: '2021-01-07T00:58:07.247476'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'age'
+        Title: 'Age'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'dental_index'
+        Title: 'Dental Index'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'DMFT Index'

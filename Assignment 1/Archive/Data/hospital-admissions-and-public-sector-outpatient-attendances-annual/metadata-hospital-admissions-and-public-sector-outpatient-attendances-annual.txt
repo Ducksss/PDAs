@@ -1,0 +1,119 @@
+# Metadata for Hospital Admissions And Public Sector Outpatient Attendances, Annual
+---
+Identifier: '7f1ba45c-c5d1-4fe4-bc6b-5d1e5ef26ad3'
+Name: 'hospital-admissions-and-public-sector-outpatient-attendances-annual'
+Title: 'Hospital Admissions And Public Sector Outpatient Attendances, Annual'
+Description:
+  - 'Data exclude Jurong Medical Centre.'
+  - ''
+  - 'Total Hospital Admissions - Refers to inpatient discharges for all hospitals.  Prior
+    to 2002, data on public sector hospitals refer to admissions.'
+  - ''
+  - 'Public Sector Hospital Admissions - Public sector hospitals include government
+    hospitals, government restructured hospitals and specialty centres.'
+  - ''
+  - 'Private Sector Hospital Admissions - Private sector hospitals include community
+    hospitals and chronic sick hospitals; such as,'
+  - ''
+  - '1.   Ren Ci Hospital (formerly chronic sick unit in Woodbridge Hospital) with
+    effect from 1 September 1994,'
+  - '2.   St. Luke''s Hospital which opened with effect from 1 March 1996,'
+  - '3.   Westpoint family hospital which re-opened its inpatient service with effect
+    from 28 June 2000.'
+  - '4.  With effect from July 2012, data include Mount Elizabeth Novena Hospital.'
+  - '5.  With effect from August 2012, data include Fortis Colorectal Hospital.  With
+    effect from 15 December 2014, data include Farrer Park Hospital.'
+  - ''
+  - 'Specialist Outpatient Clinics - Excludes staff attendances.  From 1988 include
+    government restructured hospitals and from January 1993 include Anesthesia Department,
+    Singapore General Hospital.'
+  - ''
+  - 'Accident & Emergency Departments - Data from 1988 include government restructured
+    hospitals.'
+  - ''
+  - 'Dental Clinics - Includes dental services in Hospitals, Polyclinics, School Dental
+    Clinics, National Dental Centre.  Prior to 1994, monthly data for NUH Dental Centre
+    are not available.  With effect from January 2006, data includes Changi General
+    Hospital Dental Clinic.  With effect from January 2007, data includes dental clinics
+    at Alexandra Hospital and Tan Tock Seng Hospital.  With effect from March 2010,
+    data includes dental clinics at Khoo Teck Puat Hospital.'
+  - ''
+  - 'Polyclinics - Formerly known as family health services.  Community health clinics
+    and maternal and child health clinics were renamed Family Health Services in May
+    1993.'
+Topics:
+  - 'Health'
+Keywords:
+  - 'hospital admissions'
+  - 'outpatient'
+Publisher:
+  Name: 'Ministry of Health'
+  Admin 1:
+    Name: 'admin'
+    Department: '-'
+    Email: 'admin@data.gov.sg'
+Sources:
+  - 'Ministry of Health'
+Source Url: 'http://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=1855'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '1984-01-01 to 2020-12-31'
+Last Updated: '2021-03-11T02:55:41.756914'
+Resources:
+  -
+    Identifier: 'ba3c89a7-cfc2-4c87-afe3-b688b0f0ad75'
+    Title: 'Hospital Admissions And Public Sector Outpatient Attendances, Annual'
+    Url: 'https://storage.data.gov.sg/hospital-admissions-and-public-sector-outpatient-attendances-annual/resources/hospital-admissions-and-public-sector-outpatient-attendances-annual-2021-03-11T02-54-59Z.csv'
+    Format: 'CSV'
+    Coverage: '1984-01-01 to 2020-12-31'
+    Last Updated: '2021-03-11T02:54:59.404462'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Sector'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Number of Patients'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number of Patients'
+        Description: '"na" : Data not available or not applicable'
+  -
+    Identifier: 'ce5d2248-9cc2-40b1-9571-bb5873f785bf'
+    Title: 'Hospital Admissions By Sector, Annual'
+    Url: 'https://storage.data.gov.sg/hospital-admissions-and-public-sector-outpatient-attendances-annual/resources/hospital-admissions-by-sector-annual-2021-03-11T02-55-40Z.csv'
+    Format: 'CSV'
+    Coverage: '1984-01-01 to 2020-12-31'
+    Last Updated: '2021-03-11T02:55:40.953138'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Hospital Admissions'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Sector'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Number of Admissions'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number of Admissions'
+        Description: '"na" : Data not available or not applicable'

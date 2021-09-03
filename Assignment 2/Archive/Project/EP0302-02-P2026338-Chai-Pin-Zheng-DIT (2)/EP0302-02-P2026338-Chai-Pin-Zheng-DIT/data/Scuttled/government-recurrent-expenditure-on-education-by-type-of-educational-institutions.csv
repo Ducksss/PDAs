@@ -1,0 +1,274 @@
+year,type_of_educational_institutions,recurrent_expenditure
+1981,Primary Schools,241364
+1981,Secondary Schools,222153
+1981,Junior Colleges / Centralised Institute,22787
+1981,Institute of Technical Education,38900
+1981,Polytechnics,33623
+1981,Universities,108527
+1981,Others,45378
+1982,Primary Schools,337339
+1982,Secondary Schools,291171
+1982,Junior Colleges / Centralised Institute,31992
+1982,Institute of Technical Education,47401
+1982,Polytechnics,54876
+1982,Universities,156435
+1982,Others,64537
+1983,Primary Schools,357249
+1983,Secondary Schools,312184
+1983,Junior Colleges / Centralised Institute,36016
+1983,Institute of Technical Education,55121
+1983,Polytechnics,75018
+1983,Universities,197947
+1983,Others,73578
+1984,Primary Schools,403915
+1984,Secondary Schools,347896
+1984,Junior Colleges / Centralised Institute,44491
+1984,Institute of Technical Education,65662
+1984,Polytechnics,88436
+1984,Universities,240448
+1984,Others,81711
+1985,Primary Schools,422806
+1985,Secondary Schools,378829
+1985,Junior Colleges / Centralised Institute,53037
+1985,Institute of Technical Education,80295
+1985,Polytechnics,110434
+1985,Universities,253811
+1985,Others,88974
+1986,Primary Schools,384044
+1986,Secondary Schools,348394
+1986,Junior Colleges / Centralised Institute,54002
+1986,Institute of Technical Education,68966
+1986,Polytechnics,105285
+1986,Universities,240805
+1986,Others,78868
+1987,Primary Schools,392741
+1987,Secondary Schools,363919
+1987,Junior Colleges / Centralised Institute,60546
+1987,Institute of Technical Education,64191
+1987,Polytechnics,99255
+1987,Universities,293443
+1987,Others,78456
+1988,Primary Schools,446713
+1988,Secondary Schools,411832
+1988,Junior Colleges / Centralised Institute,74395
+1988,Institute of Technical Education,72857
+1988,Polytechnics,113212
+1988,Universities,259014
+1988,Others,83835
+1989,Primary Schools,497385
+1989,Secondary Schools,444127
+1989,Junior Colleges / Centralised Institute,88964
+1989,Institute of Technical Education,79551
+1989,Polytechnics,126876
+1989,Universities,288571
+1989,Others,94286
+1990,Primary Schools,524660
+1990,Secondary Schools,470934
+1990,Junior Colleges / Centralised Institute,100035
+1990,Institute of Technical Education,84300
+1990,Polytechnics,151410
+1990,Universities,351476
+1990,Others,111707
+1991,Primary Schools,542903
+1991,Secondary Schools,490264
+1991,Junior Colleges / Centralised Institute,107242
+1991,Institute of Technical Education,87580
+1991,Polytechnics,170008
+1991,Universities,841154
+1991,Others,117643
+1992,Primary Schools,559138
+1992,Secondary Schools,506902
+1992,Junior Colleges / Centralised Institute,109157
+1992,Institute of Technical Education,89000
+1992,Polytechnics,196330
+1992,Universities,412524
+1992,Others,170127
+1993,Primary Schools,590326
+1993,Secondary Schools,546603
+1993,Junior Colleges / Centralised Institute,117849
+1993,Institute of Technical Education,103100
+1993,Polytechnics,262593
+1993,Universities,431554
+1993,Others,158304
+1994,Primary Schools,633966
+1994,Secondary Schools,629168
+1994,Junior Colleges / Centralised Institute,130490
+1994,Institute of Technical Education,105648
+1994,Polytechnics,320283
+1994,Universities,502999
+1994,Others,163687
+1995,Primary Schools,694703
+1995,Secondary Schools,694321
+1995,Junior Colleges / Centralised Institute,137080
+1995,Institute of Technical Education,109670
+1995,Polytechnics,338960
+1995,Universities,520289
+1995,Others,187396
+1996,Primary Schools,764064
+1996,Secondary Schools,796098
+1996,Junior Colleges / Centralised Institute,148176
+1996,Institute of Technical Education,112899
+1996,Polytechnics,393624
+1996,Universities,546120
+1996,Others,236177
+1997,Primary Schools,829887
+1997,Secondary Schools,861245
+1997,Junior Colleges / Centralised Institute,157964
+1997,Institute of Technical Education,124332
+1997,Polytechnics,429234
+1997,Universities,656619
+1997,Others,288494
+1998,Primary Schools,818646
+1998,Secondary Schools,823460
+1998,Junior Colleges / Centralised Institute,149616
+1998,Institute of Technical Education,120441
+1998,Polytechnics,419673
+1998,Universities,537450
+1998,Others,298139
+1999,Primary Schools,820842
+1999,Secondary Schools,842658
+1999,Junior Colleges / Centralised Institute,157821
+1999,Institute of Technical Education,126371
+1999,Polytechnics,387239
+1999,Universities,569971
+1999,Others,351972
+2000,Primary Schools,995279
+2000,Secondary Schools,976553
+2000,Junior Colleges / Centralised Institute,190274
+2000,Institute of Technical Education,148416
+2000,Polytechnics,524055
+2000,Universities,898505
+2000,Others,543814
+2001,Primary Schools,1044461
+2001,Secondary Schools,1059846
+2001,Junior Colleges / Centralised Institute,202456
+2001,Institute of Technical Education,162648
+2001,Polytechnics,592733
+2001,Universities,1114554
+2001,Others,589886
+2002,Primary Schools,1095536
+2002,Secondary Schools,1171377
+2002,Junior Colleges / Centralised Institute,226187
+2002,Institute of Technical Education,169499
+2002,Polytechnics,578551
+2002,Universities,973779
+2002,Others,609466
+2003,Primary Schools,1066364
+2003,Secondary Schools,1205693
+2003,Junior Colleges / Centralised Institute,223490
+2003,Institute of Technical Education,171067
+2003,Polytechnics,714264
+2003,Universities,1034804
+2003,Others,581109
+2004,Primary Schools,1071327
+2004,Secondary Schools,1276481
+2004,Junior Colleges / Centralised Institute,226569
+2004,Institute of Technical Education,191135
+2004,Polytechnics,594446
+2004,Universities,1029869
+2004,Others,584897
+2005,Primary Schools,1125876
+2005,Secondary Schools,1328287
+2005,Junior Colleges / Centralised Institute,238115
+2005,Institute of Technical Education,203973
+2005,Polytechnics,622933
+2005,Universities,1058239
+2005,Others,637876
+2006,Primary Schools,1290409
+2006,Secondary Schools,1561500
+2006,Junior Colleges / Centralised Institute,271046
+2006,Institute of Technical Education,249154
+2006,Polytechnics,728741
+2006,Universities,1719156
+2006,Others,531711
+2007,Primary Schools,1496718
+2007,Secondary Schools,1780889
+2007,Junior Colleges / Centralised Institute,340681
+2007,Institute of Technical Education,253506
+2007,Polytechnics,816913
+2007,Universities,1491382
+2007,Others,605536
+2008,Primary Schools,1553535
+2008,Secondary Schools,1859599
+2008,Junior Colleges / Centralised Institute,316184
+2008,Institute of Technical Education,281262
+2008,Polytechnics,946113
+2008,Universities,1808987
+2008,Others,710841
+2009,Primary Schools,1573321
+2009,Secondary Schools,1924142
+2009,Junior Colleges / Centralised Institute,311770
+2009,Institute of Technical Education,262509
+2009,Polytechnics,944810
+2009,Universities,2014807
+2009,Others,806550
+2010,Primary Schools,1839190
+2010,Secondary Schools,2220430
+2010,Junior Colleges / Centralised Institute,348039
+2010,Institute of Technical Education,328067
+2010,Polytechnics,1124873
+2010,Universities,2305921
+2010,Others,832189
+2011,Primary Schools,1820988
+2011,Secondary Schools,2181167
+2011,Junior Colleges / Centralised Institute,336063
+2011,Institute of Technical Education,346106
+2011,Polytechnics,1180981
+2011,Universities,2973812
+2011,Others,858676
+2012,Primary Schools,1946159
+2012,Secondary Schools,2314237
+2012,Junior Colleges / Centralised Institute,365825
+2012,Institute of Technical Education,351658
+2012,Polytechnics,1196035
+2012,Universities,2536971
+2012,Others,926427
+2013,Primary Schools,2185580
+2013,Secondary Schools,2523528
+2013,Junior Colleges / Centralised Institute,389037
+2013,Institute of Technical Education,376896
+2013,Polytechnics,1297647
+2013,Universities,2969921
+2013,Others,922259
+2014,Primary Schools,2263510
+2014,Secondary Schools,2607555
+2014,Junior Colleges / Centralised Institute,394321
+2014,Institute of Technical Education,399949
+2014,Polytechnics,1339298
+2014,Universities,2736642
+2014,Others,971170
+2015,Primary Schools,2457901
+2015,Secondary Schools,2705620
+2015,Junior Colleges / Centralised Institute,401335
+2015,Institute of Technical Education,432961
+2015,Polytechnics,1317875
+2015,Universities,2897770
+2015,Others,1022279
+2016,Primary Schools,2563211
+2016,Secondary Schools,2764946
+2016,Junior Colleges / Centralised Institute,412032
+2016,Institute of Technical Education,459931
+2016,Polytechnics,1350672
+2016,Universities,3138310
+2016,Others,1123092
+2017,Primary Schools,2731770
+2017,Secondary Schools,2791373
+2017,Junior Colleges / Centralised Institute,414581
+2017,Institute of Technical Education,471088
+2017,Polytechnics,1305602
+2017,Universities,3046680
+2017,Others,1318444
+2018,Primary Schools,2823567
+2018,Secondary Schools,2787630
+2018,Junior Colleges / Centralised Institute,389060
+2018,Institute of Technical Education,489278
+2018,Polytechnics,1259567
+2018,Universities,3243605
+2018,Others,1436299
+2019,Primary Schools,2769064
+2019,Secondary Schools,2734668
+2019,Junior Colleges / Centralised Institute,376956
+2019,Institute of Technical Education,470036
+2019,Polytechnics,1176648
+2019,Universities,2910173
+2019,Others,1601455

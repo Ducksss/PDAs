@@ -1,0 +1,62 @@
+# Metadata for Average Daily Polyclinic Attendances for Selected Diseases
+---
+Identifier: 'cdf196db-78ed-4607-879c-2200c647a32b'
+Name: 'average-daily-polyclinic-attendances-selected-diseases'
+Title: 'Average Daily Polyclinic Attendances for Selected Diseases'
+Description: 'Average daily polyclinic attendances for selected diseases - Acute Upper
+  Respiratory Tract infections, Acute Conjunctivitis, Acute Diarrhoea, Chickenpox
+  and HFMD( from 2018)'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Diseases'
+  - 'Polyclinics'
+Publisher:
+  Name: 'Ministry of Health'
+  Admin 1:
+    Name: 'Foong Bok Huay'
+    Department: 'Communicable Diseases Div'
+    Email: 'foong_bok_huay@moh.gov.sg'
+  Admin 2:
+    Name: 'Chan Pei Pei'
+    Department: 'Communicable Diseases Div'
+    Email: 'Chan_pei_pei@moh.gov.sg'
+Sources:
+  - 'Ministry of Health'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Monthly'
+Coverage: '2012-01-01 to 2021-01-02'
+Last Updated: '2021-02-23T01:21:40.817510'
+Resources:
+  -
+    Identifier: 'dd4dcaac-aa8d-49de-a96a-b809f8d3ae0d'
+    Title: 'Average Daily Polyclinic Attendances for Selected Diseases'
+    Url: 'https://storage.data.gov.sg/average-daily-polyclinic-attendances-selected-diseases/resources/average-daily-polyclinic-attendances-for-selected-diseases-2021-02-23T01-21-40Z.csv'
+    Format: 'CSV'
+    Coverage: '2012-01-01 to 2021-01-02'
+    Description:
+      - 'Average daily polyclinic attendances for selected diseases - Acute Upper
+        Respiratory Tract infections, Acute Conjunctivitis, Acute Diarrhoea ,Chickenpox
+        and HFMD (from 2018).'
+      - ''
+      - 'Each epidemiological week begins on a Sunday and ends on Saturday.'
+    Last Updated: '2021-02-23T01:21:40.242942'
+    Schema:
+      -
+        Name: 'epi_week'
+        Title: 'Epi week'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Each epidemiological week begins on a Sunday and ends on Saturday.'
+      -
+        Name: 'disease'
+        Title: 'Disease'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'no._of_cases'
+        Title: 'No. of Cases'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Cases'
+        Description: 'Average Daily Polyclinic Attendances'

@@ -1,0 +1,97 @@
+# Metadata for Number of Dentists and Oral Health Therapists
+---
+Identifier: '37c9964b-7e64-4028-a457-0fe24c548c8a'
+Name: 'number-of-dentists-and-oral-health-therapists'
+Title: 'Number of Dentists and Oral Health Therapists'
+Description:
+  - 'Number of Dentists (Dental Specialist, General Dental Practitioners) and Oral
+    Health Therapists by sector (Public, Private, Not in Active Practice).'
+  - ''
+  - '"Dentists" include those from Division I and II under the Singapore Dental Council.'
+  - ''
+  - 'Registration of Oral Health Therapists started in 2008.'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Dentists'
+  - 'Healthcare Manpower'
+  - 'Oral Health Therapists'
+Publisher:
+  Name: 'Ministry of Health'
+  Admin 1:
+    Name: 'Shanice Teo'
+    Department: 'Research and Statistics Division'
+    Email: 'shanice_teo@moh.gov.sg'
+  Admin 2:
+    Name: 'Koh Poh Yoke'
+    Department: 'Research and Statistics Division'
+    Email: 'koh_poh_yoke@moh.gov.sg'
+Sources:
+  - 'Ministry of Health'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2008-01-01 to 2019-12-31'
+Last Updated: '2020-04-20T04:15:49.345541'
+Resources:
+  -
+    Identifier: 'cf1218e3-a811-4326-ba92-be77759ea129'
+    Title: 'Number of Dentists'
+    Url: 'https://storage.data.gov.sg/number-of-dentists-and-oral-health-therapists/resources/number-of-dentists-2020-04-20T04-14-58Z.csv'
+    Format: 'CSV'
+    Coverage: '2008-01-01 to 2019-12-31'
+    Description:
+      - 'Number of Dentists (Dental Specialist, General Dental Practitioners/Public,
+        Private, Not in Active Practice).'
+      - 'Dentists refer to Division I and II dentists.'
+    Last Updated: '2020-04-20T04:14:58.043006'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'type'
+        Title: 'Type'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'sector'
+        Title: 'Sector'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'count'
+        Title: 'Count'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Dentists'
+  -
+    Identifier: '28ddb9c4-b3d1-4e3a-bd8e-ab3e0bf2df7b'
+    Title: 'Number of Oral Health Therapists'
+    Url: 'https://storage.data.gov.sg/number-of-dentists-and-oral-health-therapists/resources/number-of-oral-health-therapists-2020-04-20T04-15-48Z.csv'
+    Format: 'CSV'
+    Coverage: '2008-01-01 to 2019-12-31'
+    Description:
+      - 'Number of Oral Health Therapists (Public, Private, Not in Active Practice).'
+      - 'Registration of Oral Health Therapists started in 2008.'
+    Last Updated: '2020-04-20T04:15:48.458135'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'sector'
+        Title: 'Sector'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'count'
+        Title: 'Count'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Oral Health Therapists'

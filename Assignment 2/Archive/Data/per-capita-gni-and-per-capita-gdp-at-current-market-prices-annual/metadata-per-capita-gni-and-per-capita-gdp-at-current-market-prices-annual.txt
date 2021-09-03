@@ -1,0 +1,79 @@
+# Metadata for Per Capita GNI And Per Capita GDP At Current Prices, Annual
+---
+Identifier: '695dcc75-bd66-4f4b-9b69-4ba57584d53e'
+Name: 'per-capita-gni-and-per-capita-gdp-at-current-market-prices-annual'
+Title: 'Per Capita GNI And Per Capita GDP At Current Prices, Annual'
+Description: 'Gross National Income and Gross Domestic Product divided by midyear
+  population, expressed in current prices.'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'GDP'
+  - 'GNI'
+  - 'Gross Domestic Product'
+  - 'Gross National Income'
+  - 'Per Capita'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'SingStat Info'
+    Department: 'Communications and Information Services'
+    Email: 'info@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+Source Url: 'http://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=16033&exportType=csv'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '1960-01-01 to 2018-12-31'
+Last Updated: '2019-09-05T01:28:31.198344'
+Resources:
+  -
+    Identifier: '0ba721b8-d290-44f0-a3a6-748f5fd74dc5'
+    Title: 'Per Capita GNI and Per Capita GDP at Current Prices, Annual'
+    Url: 'https://storage.data.gov.sg/per-capita-gni-and-per-capita-gdp-at-current-market-prices-annual/resources/per-capita-gni-and-per-capita-gdp-at-current-prices-annual-2019-09-05T01-27-54Z.csv'
+    Format: 'CSV'
+    Coverage: '1960-01-01 to 2018-12-31'
+    Last Updated: '2019-09-05T01:27:54.508724'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Main'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'GDP/GNI Per Capita'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+  -
+    Identifier: '6e72d63a-1eca-4339-b2b0-db770a330ff7'
+    Title: 'Per Capita GNI and Per Capita GDP at Current Prices in USD, Annual'
+    Url: 'https://storage.data.gov.sg/per-capita-gni-and-per-capita-gdp-at-current-market-prices-annual/resources/per-capita-gni-and-per-capita-gdp-at-current-prices-in-usd-annual-2019-09-05T01-28-30Z.csv'
+    Format: 'CSV'
+    Coverage: '1960-01-01 to 2018-12-31'
+    Last Updated: '2019-09-05T01:28:30.635803'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Main'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'GDP/GNI Per Capita'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'US$'

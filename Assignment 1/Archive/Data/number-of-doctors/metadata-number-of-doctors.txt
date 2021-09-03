@@ -1,0 +1,68 @@
+# Metadata for Number of Doctors
+---
+Identifier: '70426f39-c168-4741-bfb0-43056f32162f'
+Name: 'number-of-doctors'
+Title: 'Number of Doctors'
+Description:
+  - 'Number of Doctors (Specialist, Non-specialist / Public, Private, Not in Active
+    Practice).'
+  - 'Includes doctors registered under Temporary Registration for service provision
+    from Year 2010 onwards.'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Doctors'
+  - 'Health Manpower'
+Publisher:
+  Name: 'Ministry of Health'
+  Admin 1:
+    Name: 'Shanice Teo'
+    Department: 'Research and Statistics Division'
+    Email: 'shanice_teo@moh.gov.sg'
+  Admin 2:
+    Name: 'Koh Poh Yoke'
+    Department: 'Research and Statistics Division'
+    Email: 'koh_poh_yoke@moh.gov.sg'
+Sources:
+  - 'Ministry of Health'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2006-01-01 to 2019-12-31'
+Last Updated: '2020-04-20T02:51:11.125066'
+Resources:
+  -
+    Identifier: '1ef74cbe-d975-4665-b874-56bc4b1c77ea'
+    Title: 'Number of Doctors'
+    Url: 'https://storage.data.gov.sg/number-of-doctors/resources/number-of-doctors-2020-04-20T02-51-10Z.csv'
+    Format: 'CSV'
+    Coverage: '2006-01-01 to 2019-12-31'
+    Description:
+      - 'Number of Doctors (Specialist, Non-specialist / Public, Private, Not in Active
+        Practice).'
+      - 'Includes doctors registered under Temporary Registration for service provision
+        from Year 2010 onwards.'
+    Last Updated: '2020-04-20T02:51:10.652642'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'sector'
+        Title: 'Sector'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'specialist_non-specialist'
+        Title: 'Specialist non-specialist'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: '"na" : Data not available or not applicable'
+      -
+        Name: 'count'
+        Title: 'Count'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Doctors'

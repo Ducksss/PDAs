@@ -1,0 +1,177 @@
+year_of_assessment,economic_sector,no_of_companies,assessable_income,chargeable_income,net_tax_assessed
+2004,Agriculture & Fishing,83,23368,na,na
+2004,Mining & Quarrying,8,3157,na,na
+2004,Manufacturing,2985,5759079,na,na
+2004,Utilities,18,227498,na,na
+2004,Construction,1770,609634,na,na
+2004,Wholesale & Retail Trade,9549,6821027,na,na
+2004,Hotels & Restaurants,420,229275,na,na
+2004,Transport & Communications,1896,4513485,na,na
+2004,Financial,3403,10051255,na,na
+2004,Real Estate & Business Activities,5822,4184382,na,na
+2004,Others,1591,755250,na,na
+2005,Agriculture & Fishing,43,17002,na,na
+2005,Mining & Quarrying,8,2758,na,na
+2005,Manufacturing,2949,7898577,na,na
+2005,Utilities,64,657867,na,na
+2005,Construction,1742,450029,na,na
+2005,Wholesale & Retail Trade,9430,9478344,na,na
+2005,Hotels & Restaurants,391,289983,na,na
+2005,Transport & Communications,2704,4406298,na,na
+2005,Financial,3299,12358275,na,na
+2005,Real Estate & Business Activities,5250,3635895,na,na
+2005,Others,1494,592027,na,na
+2006,Agriculture & Fishing,38,15963,na,3125
+2006,Mining & Quarrying,5,15641,na,3128
+2006,Manufacturing,3126,10463874,na,1717082
+2006,Utilities,73,570313,na,114015
+2006,Construction,1924,500064,na,99275
+2006,Wholesale & Retail Trade,10566,12361331,na,2014896
+2006,Hotels & Restaurants,491,460337,na,92059
+2006,Transport & Communications,3078,4661510,na,923805
+2006,Financial,3601,12503897,na,1927521
+2006,Real Estate & Business Activities,6187,4317499,na,814072
+2006,Others,1752,562728,na,111533
+2007,Agriculture & Fishing,24,5086,na,1017
+2007,Mining & Quarrying,4,366,na,73
+2007,Manufacturing,2995,10833396,na,1582445
+2007,Utilities,76,842339,na,168393
+2007,Construction,2072,537159,na,106129
+2007,Wholesale & Retail Trade,11666,15097037,na,2475938
+2007,Hotels & Restaurants,609,659958,na,131991
+2007,Transport & Communications,3477,5263900,na,1041957
+2007,Financial,3758,17507425,na,2833853
+2007,Real Estate & Business Activities,7388,5029850,na,936057
+2007,Others,1984,598975,na,118710
+2008,Manufacturing,3444,na,13710625,1593402
+2008,Construction,2891,na,983896,176586
+2008,Utilities,92,na,1094942,197089
+2008,Other Goods Industries,42,na,9001,1620
+2008,Wholesale & Retail Trade,13789,na,17055120,2582419
+2008,Hotels & Restaurants,826,na,922199,165976
+2008,Transport & Storage,2665,na,3675013,638860
+2008,Information & Communications,1600,na,2550162,434754
+2008,Financial,4495,na,21951629,3234165
+2008,Real Estate & Business Activities,9627,na,6444267,1109889
+2008,Others,2748,na,913451,162641
+2009,Manufacturing,4278,na,11279731,1554005
+2009,Construction,3912,na,1615221,288220
+2009,Utilities,114,na,1021818,183937
+2009,Other Goods Industries,78,na,94073,16585
+2009,Wholesale & Retail Trade,15942,na,18857302,2682171
+2009,Accommodation & Food Service Activities,1151,na,1113697,197643
+2009,Transportation & Storage,3052,na,5129884,856805
+2009,Information & Communications,2093,na,2549711,450996
+2009,Financial & Insurance Activities,4969,na,18998912,2835445
+2009,Real Estate & Business Activities,11199,na,9038126,1546183
+2009,Others,3556,na,1653183,220397
+2010,Manufacturing,4286,na,10992835,1452225
+2010,Construction,4360,na,2632143,446475
+2010,Utilities,118,na,476163,80924
+2010,Other Goods Industries,90,na,90366,14757
+2010,Wholesale & Retail Trade,16082,na,17205622,2267331
+2010,Accommodation & Food Service Activities,1240,na,816466,138347
+2010,Transportation & Storage,2909,na,3950611,625505
+2010,Information & Communications,2178,na,2846491,449932
+2010,Financial & Insurance Activities,5155,na,21574449,2879170
+2010,Real Estate & Business Activities,11666,na,11609591,1879095
+2010,Others,3958,na,1489908,237846
+2011,Manufacturing,4349,na,11758075,1524448
+2011,Construction,4437,na,3173299,528396
+2011,Utilities,138,na,930222,157667
+2011,Other Goods Industries,107,na,148687,23563
+2011,Wholesale & Retail Trade,16293,na,19837142,2459257
+2011,Accommodation & Food Service Activities,1379,na,904859,152021
+2011,Transportation & Storage,2806,na,3947718,586057
+2011,Information & Communications,2096,na,3401812,442668
+2011,Financial & Insurance Activities,5669,na,25155298,3164642
+2011,Real Estate & Business Activities,12141,na,14445690,2324995
+2011,Others,4154,na,1545150,231925
+2012,Manufacturing,4508,na,12981389,1495100
+2012,Construction,4672,na,3472638,589600
+2012,Utilities,144,na,1763770,299825
+2012,Other Goods Industries,134,na,142336,22806
+2012,Wholesale & Retail Trade,17256,na,23540437,2925410
+2012,Accommodation & Food Service Activities,1553,na,1298301,212304
+2012,Transportation & Storage,2952,na,6310337,1001639
+2012,Information & Communications,2204,na,3714281,583015
+2012,Financial & Insurance Activities,6249,na,25568294,3303260
+2012,Real Estate & Business Activities,12951,na,16606203,2629402
+2012,Others,4473,na,1728132,267877
+2013,Manufacturing,4700,na,13404154,1491936
+2013,Construction,4878,na,3426270,560912
+2013,Utilities,171,na,1717358,290975
+2013,Other Goods Industries,153,na,183906,28721
+2013,Wholesale & Retail Trade,17741,na,22623583,2640138
+2013,Accommodation & Food Service Activities,1779,na,1274351,208656
+2013,Transportation & Storage,3130,na,6089735,910132
+2013,Information & Communications,2488,na,2977668,446831
+2013,Financial & Insurance Activities,6681,na,26764831,3495814
+2013,Real Estate & Business Activities,13906,na,17058592,2572553
+2013,Others,4908,na,2022224,273607
+2014,Manufacturing,4890,na,9955207,1295965
+2014,Construction,5204,na,3402899,543489
+2014,Utilities,176,na,910110,150918
+2014,Other Goods Industries,162,na,159011,24124
+2014,Wholesale & Retail Trade,18451,na,24043581,2673820
+2014,Accommodation & Food Service Activities,1984,na,1348453,218405
+2014,Transportation & Storage,3455,na,5410695,793174
+2014,Information & Communications,2777,na,3285197,491457
+2014,Financial & Insurance Activities,7333,na,30552578,3859679
+2014,Real Estate & Business Activities,15052,na,19527292,2860319
+2014,Others,5286,na,3264806,297974
+2015,Manufacturing,5144,na,12577692,1473370
+2015,Construction,5660,na,3076259,485047
+2015,Utilities,187,na,771355,129054
+2015,Other Goods Industries,185,na,278730,29379
+2015,Wholesale & Retail Trade,19261,na,25093313,2849540
+2015,Accommodation & Food Service Activities,2232,na,1358228,220099
+2015,Transportation & Storage,3670,na,5945369,881754
+2015,Information & Communications,3244,na,3651677,549161
+2015,Financial & Insurance Activities,8128,na,31091407,3726204
+2015,Real Estate & Business Activities,16383,na,21013798,2891398
+2015,Others,5825,na,3789189,358761
+2016,Manufacturing,5155,na,13225622,1449054
+2016,Construction,5981,na,3117129,488888
+2016,Utilities,194,na,801841,134679
+2016,Other Goods Industries,170,na,1094816,84608
+2016,Wholesale & Retail Trade,20094,na,27371346,2908321
+2016,Accommodation & Food Service Activities,2441,na,1284906,204618
+2016,Transportation & Storage,3808,na,5691292,857103
+2016,Information & Communications,3498,na,4233640,517525
+2016,Financial & Insurance Activities,9023,na,33271639,4196441
+2016,Real Estate & Business Activities,17587,na,21356825,2921737
+2016,Others,6335,na,2391401,344404
+2017,Manufacturing,4912,na,16137408,1617032
+2017,Construction,5929,na,3074399,475734
+2017,Utilities,202,na,881937,147957
+2017,Other Goods Industries,172,na,342595,35397
+2017,Wholesale & Retail Trade,20275,na,29260530,3096608
+2017,Accommodation & Food Service Activities,2472,na,1331099,211357
+2017,Transportation & Storage,3707,na,4982353,733611
+2017,Information & Communications,3901,na,3915731,600830
+2017,Financial & Insurance Activities,9726,na,31465247,3815630
+2017,Real Estate & Business Activities,18386,na,26620744,3251569
+2017,Others,6682,na,2752760,390795
+2018,Manufacturing,4840,na,21911779,1869659
+2018,Construction,5693,na,2565240,408330
+2018,Utilities,193,na,861611,145235
+2018,Other Goods Industries,168,na,131551,20438
+2018,Wholesale & Retail Trade,20480,na,35020384,3506200
+2018,Accommodation & Food Service Activities,2544,na,1367124,222402
+2018,Transportation & Storage,3712,na,5549703,823216
+2018,Information & Communications,4114,na,4731166,712652
+2018,Financial & Insurance Activities,10140,na,39181974,4451027
+2018,Real Estate & Business Activities,18930,na,33532409,3327039
+2018,Others,6983,na,5529064,437592
+2019,Manufacturing,4822,na,34035092,2408970
+2019,Construction,5383,na,2759098,453023
+2019,Utilities,200,na,941730,159188
+2019,Other Goods Industries,157,na,1230913,80059
+2019,Wholesale & Retail Trade,20692,na,38036372,3859121
+2019,Accommodation & Food Service Activities,2388,na,1537546,254654
+2019,Transportation & Storage,3804,na,5449933,806684
+2019,Information & Communications,4211,na,6718019,946263
+2019,Financial & Insurance Activities,10356,na,37149526,4432786
+2019,Real Estate & Business Activities,19447,na,32665231,3169978
+2019,Others,7077,na,3281646,501556

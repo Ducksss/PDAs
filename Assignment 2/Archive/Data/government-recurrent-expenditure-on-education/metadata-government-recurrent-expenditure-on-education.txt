@@ -1,0 +1,73 @@
+# Metadata for Government Recurrent Expenditure On Education
+---
+Identifier: '02670c07-be59-4909-bff8-c5bcedc4c121'
+Name: 'government-recurrent-expenditure-on-education'
+Title: 'Government Recurrent Expenditure On Education'
+Description:
+  - 'The recurrent amount spent by government on education.'
+  - ''
+  - 'Note: Preliminary figures for Year 2019'
+Topics:
+  - 'Education'
+Keywords:
+  - 'Governement Expenditure'
+  - 'Schools'
+  - 'Students'
+Publisher:
+  Name: 'Ministry of Education'
+  Admin 1:
+    Name: 'Chng Lung Huang'
+    Department: 'Research & Management Information Division'
+    Email: 'moe_management_information@moe.gov.sg'
+Sources:
+  - 'Ministry of Education'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '1981-01-01 to 2019-12-31'
+Last Updated: '2020-11-02T02:28:41.012798'
+Resources:
+  -
+    Identifier: '0db9f5fb-7b87-43e1-9e5d-78404e57b79d'
+    Title: 'Government Recurrent Expenditure on Education By Type of Educational Institutions'
+    Url: 'https://storage.data.gov.sg/government-recurrent-expenditure-on-education/resources/government-recurrent-expenditure-on-education-by-type-of-educational-institutions-2020-11-02T02-27-24Z.csv'
+    Format: 'CSV'
+    Coverage: '1981-01-01 to 2019-12-31'
+    Last Updated: '2020-11-02T02:27:24.876309'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'type_of_educational_institutions'
+        Title: 'Type Of Educational Institutions'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'recurrent_expenditure'
+        Title: 'Recurrent Expenditure'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Thousand'
+  -
+    Identifier: '58f33f67-d91b-4485-8ccf-b7fe536b2cdb'
+    Title: 'Government Recurrent Expenditure on Education - Total'
+    Url: 'https://storage.data.gov.sg/government-recurrent-expenditure-on-education/resources/government-recurrent-expenditure-on-education-total-2020-11-02T02-28-40Z.csv'
+    Format: 'CSV'
+    Coverage: '1981-01-01 to 2019-12-31'
+    Last Updated: '2020-11-02T02:28:40.472000'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'recurrent_expenditure_total'
+        Title: 'Total Recurrent Expenditure'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Thousand'
