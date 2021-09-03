@@ -12,8 +12,8 @@ Programming for Data Science is a poly-wide elective module. This module provide
 
 **Assessment**
 The assessment consists of three components:
+|Topic|Title|Hours|
 |:---|:---|:---|
-|1.|Python Basics|15|
-|2.|Data Manipulation using the Numpy package|15|
-|3.|Data Visualization using the Matplotlib package|15|
-|4.|Data Manipulation and Analysis using the Pandas package|15|
+|1.|CA1|Individual Assignment 1|40%|
+|2.|CA2|Individual Assignment 2|40%|
+|3.|CA3|Component 3 (Practicals, Quizzes, General Performance)|20%|
